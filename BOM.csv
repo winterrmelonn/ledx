@@ -1,5 +1,5 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-"3.7v lipo 1000mah 503450 w/ jst ph2.0",1,amazon,$7.86,$7.86,https://www.amazon.com/dp/B08TTTL5BV
+3.7v lipo 1000mah 503450 w/ jst ph2.0,1,amazon,$7.86,$7.86,https://www.amazon.com/dp/B08TTTL5BV
 "hiletgo tp4056 usb-c charger w/ protection (3 pack, uses 1)",1,amazon,$5.99,$5.99,https://www.amazon.com/dp/B07PKND8KG
 "hiletgo ss-12d00 slide switch (20 pack, uses 1)",1,amazon,$5.39,$5.39,https://www.amazon.com/dp/B07RTJDW27
 "3mm orange diffused led (100 pack, uses 24)",1,amazon,$5.99,$5.99,https://www.amazon.com/dp/B0DHX6HHQ8
@@ -7,4 +7,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 "220 ohm 1/4w metal film resistor (100 pack, uses 32)",1,amazon,$5.49,$5.49,https://www.amazon.com/dp/B07HDGF48W
 "bntechgo 26awg silicone wire, 10ft red + 10ft black",1,amazon,$6.68,$6.68,https://www.amazon.com/dp/B01CQJKC6E
 pla + petg filament (~30g),1,already have,$0.00,$0.00,
-Estimated total shipping,1,,,$0.00,
+Estimated total shipping,1,,$0.00,$0.00,
+Estimated total shipping,1,,,$13.00,
