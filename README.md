@@ -9,6 +9,9 @@ THEORHETICALLY orange ledx organized in a compact arc shine beneth the skin and 
 <img width="1026" height="730" alt="Screenshot 2026-10-18 at 12 26 32 PM" src="https://github.com/user-attachments/assets/c835e0b7-a040-4ff7-a0f9-9777a962bc68" />
 
 
+![ledx render, bottom view](render.png)
+render of the bottom with the snap-on door. body is pla (matte black) and the door is petg (darker black) so you can tell the two parts apart. petg for the door bc the clips flex every time you open it and pla would snap.
+
 ## bom
 prices are per piece out of a multipack, so the real checkout total is higher since you buy leds and resistors in packs of 100. also in `BOM.csv`.
 
